@@ -1,6 +1,10 @@
 # Hospital-Management
 This is a proyect made in college for the class Data Structures
 
+## Data structures
+- Double linked list
+- Binary tree
+
 ## Main objective
 Make a system able to manage hospital needs for example:
 - Create hospitals in the city
